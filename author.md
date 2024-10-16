@@ -1,1 +1,2 @@
-﻿Derina Vlada Dmitrievna Diff in master branch
+Derina Vlada Dmitrievna
+Resolve conflict
